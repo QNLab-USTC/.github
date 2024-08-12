@@ -3,5 +3,5 @@ Quantum Network Research Group was established in 2018 and is located at the Uni
 
 # Contact Us:
 * :email: [kpxue AT ustc.edu.cn](mailto:kpxue@ustc.edu.cn) & [lijian9 AT ustc.edu.cn](mailto:lijian9@ustc.edu.cn)
-* :earth_asia: https://qnlab-ustc.com
-* :technologist: https://qnlab-ustc.com/team/
+* :earth_asia: [Our Website](https://qnlab-ustc.com)
+* :technologist: [Our Team](https://qnlab-ustc.com/team/)
